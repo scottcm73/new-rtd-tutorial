@@ -1,4 +1,4 @@
-API
+python_examples_gui
 ===
 
 .. autosummary::

@@ -1,5 +1,5 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+# Created by https://www.toptal.com/developers/gitignore/python_examples_gui/python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
 
 ### JupyterNotebooks ###
@@ -153,4 +153,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+# End of https://www.toptal.com/developers/gitignore/python_examples_gui/python,jupyternotebooks
