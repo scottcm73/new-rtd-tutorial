@@ -10,7 +10,7 @@ First, follow these instructions to install the Python Open3D package. Open your
 
 If you have more than one version of Python, the highest version will be the default unless you specifically change it (which you don't want to do). So, to install the Open3D python package with the 3.8 version of Python, try the command:
 
-.. code-block:: console
+.. code-block::console
     
    py -3.8 -m pip install open3d
 
