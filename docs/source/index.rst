@@ -1,11 +1,9 @@
 Welcome to test's documentation!
 ===================================
 
-**test** is a Python library for testing the RTD-Sphinx Template
-It pulls data from the New_RTD_Tutorial GitHub.
+**test** This is a test of a Python visualization GUI for Open3D.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
 
 .. note::
 
@@ -16,5 +14,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   getting_started
+   python_examples_gui

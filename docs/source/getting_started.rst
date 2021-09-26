@@ -1,10 +1,10 @@
-Usage
+getting_started
 =====
 
-.. _installation:
+.. _section1:
 
-Installation
-------------
+Section1
+--------
 
 To use test, first install it using pip:
 
@@ -12,8 +12,8 @@ To use test, first install it using pip:
 
    (.venv) $ pip install test
 
-Creating recipes
-----------------
+Section2
+--------
 
 To retrieve a list of random ingredients,
 you can use the ``test.get_random_ingredients()`` function:
