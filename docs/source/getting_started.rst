@@ -11,6 +11,7 @@ First, follow these instructions to install the Python Open3D package. Open your
 If you have more than one version of Python, the highest version will be the default unless you specifically change it (which you don't want to do). So, to install the Open3D python package with the 3.8 version of Python, try the command:
 
 .. code-block:: console
+    
    py -3.8 -m pip install open3d
 
 This command should associate the python 3.8 version with the Python Open3D package.
@@ -26,26 +27,31 @@ For example:
 For PC:
 
 .. code-block:: console
+
     cd OneDrive\Desktop 
 
 For Mac:
 
 .. code-block:: console
+
     cd desktop 
 
 Make a new directory.
 
 .. code-block:: console
+
     mkdir open3dgit
 
 Then, open the folder you created.
 
 .. code-block:: console
+
     cd open3dgit
 
 Now, clone the repository. 
 
 .. code-block:: console
+
     git clone -b v0.13.0 git@github.com:isl-org/Open3D.git
 
 for SSH
@@ -53,6 +59,7 @@ for SSH
     or 
 
 .. code-block:: console
+
     git clone -b v0.13.0 https://github.com/isl-org/Open3D.git
 
 for https
