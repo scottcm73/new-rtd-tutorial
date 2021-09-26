@@ -58,7 +58,7 @@ for SSH
 
     or 
 
-.. code-block:: console
+.. code-block:: 
 
     git clone -b v0.13.0 https://github.com/isl-org/Open3D.git
 
