@@ -15,3 +15,4 @@ Contents
    getting_started
    python_examples_gui
    exploring_gui_functionality
+   rotate_model
