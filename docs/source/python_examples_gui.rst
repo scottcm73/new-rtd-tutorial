@@ -1,4 +1,4 @@
-python_examples_gui
+Python Examples Gui
 ===================
 
 Start the Python examples GUI.
@@ -15,4 +15,6 @@ In the GUI, you can open any 3D model from the File > Open menu. However, for th
 
 You will need to double-click each folder to open it and navigate to the file. 
 
-.. image:: 
+.. image:: images/Python-Open3D-Examples-Gui-image-2.png
+  :width: 400
+  :alt: Alternative text

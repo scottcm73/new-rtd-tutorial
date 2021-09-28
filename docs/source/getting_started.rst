@@ -1,4 +1,4 @@
-getting_started
+Getting Started
 ===============
 
 .. _install_python_open3dd_package:

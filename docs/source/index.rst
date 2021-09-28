@@ -1,5 +1,5 @@
-Welcome to test's documentation!
-===================================
+Welcome to Open3D Examples GUI Tutorial 
+=======================================
 
 **test** This is a tutorial of a Python visualization GUI for Open3D.
 
@@ -14,3 +14,4 @@ Contents
 
    getting_started
    python_examples_gui
+   exploring_gui_functionality
