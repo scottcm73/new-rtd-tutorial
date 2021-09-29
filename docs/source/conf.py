@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'test'
+project = 'Open3D Python Examples Gui Tutorial'
 copyright = '2021, Scott McMahan'
 author = 'Scott McMahan'
 
